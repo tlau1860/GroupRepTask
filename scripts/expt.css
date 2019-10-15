@@ -1,0 +1,88 @@
+img {
+    width: 140px; 
+}
+
+img.mystery {
+    height: 180px;
+    width: auto;
+}
+
+.history {
+    width: 37.5px;
+}
+
+p.history {
+    font-size: 50%;
+}
+#jspsych-history {
+    margin-left: 60px;
+}
+
+.peer {
+    width: 150px;
+    /*width: 100px;*/
+}
+#jspsych-peer {
+    margin-top: 0px;
+}
+#jspsych-prompt {
+    margin: 0px;
+}
+
+td>p {
+    margin: px;
+}
+
+#jspsych-progressbar-container span {
+    display: none;
+}
+
+.jspsych-display-element {
+    display	: block;
+    margin-top	: 50px;
+}
+
+.likertScale {
+    width: 75px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#jspsych-history {
+    margin-top: 50px;
+}
+#jspsych-prompt {
+    margin-botton: 0px;
+}
+
+#jspsych-prompt p{
+    margin-top: 5px;
+    display: inline-block;
+    font-size: 140%;
+}
+
+.jspsych-label p {
+    margin: '0px';
+    height: '20px'
+}
+
+#jspsych-prompt span{
+    margin-top: 5px;
+    display: inline-block;
+    font-size: large;
+    color: gray;
+}
+
+.practice#jspsych-prompt p {
+    font-size: 100%;
+}
+
+.practice#jspsych-prompt p p{
+    font-size: 100%;
+}
+
+.practice#jspsych-prompt span{
+    font-size: 90%;
+}
