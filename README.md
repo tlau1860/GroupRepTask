@@ -1,4 +1,4 @@
-These are the empty scripts to run 4 blocks of the base experiment found in Lau, Pouncy, Gershman, & Cikara (2018). There are four javascript files and three directories that will need to be edited and/or filled. 
+These are empty scripts to run 4 blocks of the base experiment found in Lau, Pouncy, Gershman, & Cikara, 2018 (http://dx.doi.org/10.1037/xge0000470; https://osf.io/vjbtc/). There are four javascript files and three directories that will need to be edited and/or filled. 
 To start, double click <code>index.html</code>. At the end, a csv file will be saved to wherever your browser saves downloads.
 
 **Agent Faces**
