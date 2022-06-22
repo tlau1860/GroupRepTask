@@ -25,4 +25,4 @@ To start the task, double click <code>index.html</code>. There is filler text in
 - <code>main.js</code> -- You will want to edit a few variables in this file (eg, <code>study</code>, which affects the naming of the file, or the timing delays). You can also edit the number of blocks shown or the number of policy stances per block. This file also contains general experimental instructions (eg, "The task is complete."), which probably do not need to be edited.
 
 
-*Questions or comments? Please e-mail tatiana[dot]lau[at]rhul.ac.uk*
+*Questions or comments? Please e-mail tlau[at]alumni[dot]harvard[dot]edu*
